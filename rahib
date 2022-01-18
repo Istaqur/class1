@@ -1,0 +1,36 @@
+<?php
+$myname ="Abdur Rahim";
+$f = "Rahib";
+$l = "Istaqur";
+/* this code is for full name
+echo $l." ". $f;
+*/
+/* This code is for length
+//echo strlen($myname);
+*/
+//echo strrev($myname);
+
+/*
+$cr_name="Abid hasan";
+$student1="Sabbir";
+$student2="Rahib";
+echo ($cr_name ."<br>");
+echo ($student1 ."<br>");
+echo ($student1 ."<br>");
+*/
+
+/*
+$num1 = 10;
+$num2 = 2;
+echo ($num1 + $num2 ."<br>");
+echo ($num1 - $num2 ."<br>");
+echo ($num1 * $num2 ."<br>");
+echo ($num1 + $num2 ."<br>");
+echo ($num1 + $num2 ."<br>");
+*/
+$num1 = 20
+$num2 = 15
+echo $num1 >= $num2;
+echo $num1 != $num2;
+echo $num1 == $num2;
+?>
